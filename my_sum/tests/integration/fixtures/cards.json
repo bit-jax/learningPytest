@@ -1,0 +1,875 @@
+[{
+  "_id": {
+    "$oid": "60cc383898d4f9382c70c49f"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "You enter a damp chamber. From the corner of the room you can see a baby goblin looking up at you. It looks utterly frightened and helpless.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc383898d4f9382c70c4a0"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc383898d4f9382c70c4a2"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc38efa14b1b6c60f00029"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "You enter a room and see an altar with a shiny-looking object on it. On closer examination, you can see it is a golden skull with hair slicked back. You look around and wonder if it's to be yours for the taking.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc38efa14b1b6c60f0002a"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc38efa14b1b6c60f0002c"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3952db254a19f869b658"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "The chamber door thuds behind you. There is no way out. In front of you lay a parchment and quill. The parchment reads 'Multiply (x + 5)(a − 6)'",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3952db254a19f869b659"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3952db254a19f869b65b"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc39a6db254a19f869b65c"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "In the chamber rests a tall standing mirror. Upon its gaze, you can see not your reflection, but a version of you with your desires.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc39a6db254a19f869b65d"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc39a6db254a19f869b65f"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3a2ddb254a19f869b660"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "The chamber you have entered is sprawled open, forested, and seems to support its own ecosystem. As you wander through it, you find an abandoned cabin near a waterfall. You contemplate staying.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3a2ddb254a19f869b661"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3a2ddb254a19f869b663"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3a9c216b9f66f00d6a4d"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "In a mostly dark chamber shines a little flying dot. You walk closer to it and it yells 'Hey! Listen'. You then get stuck in an annoying amount of slowly moving dialogue with the fairy. It doesn't understand proper conversation edict.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3a9c216b9f66f00d6a4e"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3a9c216b9f66f00d6a50"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3adb27581e6f147aa020"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "As you walk into the next room, you notice a small white rabbit sitting in front of a cavern that appears to be your exit. The ground next to it is littered with knightly corpses.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3adb27581e6f147aa021"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3adb27581e6f147aa023"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3b1b13260c5680c0ca01"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "In the room you see a stone slab with a sword stuck into the group, perfectly erect from the stone. On the ground next to it is many corpses, as if they fell over dead trying to obtain the weapon.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3b1b13260c5680c0ca02"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3b1b13260c5680c0ca04"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3b54ffdcf74988a67e28"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "You walk up to a still figure. Upon closer inspection, you can see it is some kind of automatron. You wave your hand in front of its face, wondering if it will remain still of stone. Without any voice inflection, it says 'I am Zuckerbot.'",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3b54ffdcf74988a67e29"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3b54ffdcf74988a67e2b"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3b87b81b1d415872aa96"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "You hear a song calling to you through the mists beyond the waters. A rowboat lays at the water's side.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3b87b81b1d415872aa97"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3b87b81b1d415872aa99"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3bbdb81b1d415872aa9a"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "In the chamber lies a pond. You can see a sword shining underneath the murky waters. As you approach, a lady of the water speaks to you.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3bbdb81b1d415872aa9b"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3bbdb81b1d415872aa9d"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3bf52bdf8160fc758fd5"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "In a sealed chamber there are two altars, each with a book on it. The first book's title reads 'Vampire Lovestory' the second is 'Quest to Throw Jewelry in a Volcano.' You get the sense you need to read one of them.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3bf52bdf8160fc758fd6"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3bf52bdf8160fc758fd8"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3c21227a065e74b830b2"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "A voice calls out to you 'The instant my name is spoken, I am broken.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3c21227a065e74b830b3"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3c21227a065e74b830b5"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3c57517e6318b06e698d"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "On a long and rather royal-looking table, you see a feast before you. The smell of roast, fruits, and exotic goods fill your nostrils making you salivate. You wonder if this is too good to be true.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3c57517e6318b06e698e"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3c57517e6318b06e6990"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3c7cf7dace306459202b"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "The door shuts behind you and the chamber is completely black. A light appears from above. A figure illuminating the chamber with bird-like wings descends before you. It does not talk, but its arm is stretched out, palm up.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3c7cf7dace306459202c"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3c7cf7dace306459202e"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3cb1987e6177948b9fef"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "You see a bridge that bars your path. As you begin to cross it you see an old man standing in your way. He speaks, 'Answer me one question... Rock, Paper, or Scissors.\"",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3cb1987e6177948b9ff0"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3cb1987e6177948b9ff2"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3ce37a46b264e0762529"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "In the chamber, there is a path that forks. To the left is a sturdy-looking bridge over a pit of spikes. To the right is a bridge that is barely holding itself together. Both paths lead to the exit.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3ce37a46b264e076252a"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3ce37a46b264e076252c"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3d1207441974289a7951"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "As you walk through the chamber you see a stray black cat. It is scrawny and looks hungry.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3d1207441974289a7952"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3d1207441974289a7954"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3d5759382257e4aff17d"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "On an alter you see a shining green potion. The label says one word. 'Pickle'",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3d5759382257e4aff17e"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3d5759382257e4aff180"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3dee3243c74830ec3c26"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "Upon entering the chamber you can see a yellow dog. It appears to be normal until without warning its magical limbs stretch as if they have no bones. The dog takes the shape of a carriage and tells you 'Get in bro' You can see that the other end of the chamber is far far away.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3dee3243c74830ec3c27"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3dee3243c74830ec3c29"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3e373243c74830ec3c2a"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "You see a prickly-looking cactus. There seems to be nothing abnormal about it.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3e373243c74830ec3c2b"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3e373243c74830ec3c2d"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc3e884e55d95e04b4e5a2"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "You are greeted by two unicorns. They promptly tell you they have a map and they want to take you to Candy Mountain. They tell you 'its a land of sweets and joy and joyness.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cc3e884e55d95e04b4e5a3"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cc3e884e55d95e04b4e5a5"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cd61d6fb71291fbc63a23d"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "You come across an underground lake with two brothers, Pete and Repeat. Pete falls out, who is left?",
+  "choice1": {
+    "_id": {
+      "$oid": "60cd61d6fb71291fbc63a23e"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cd61d6fb71291fbc63a240"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cd9c3f0b374c164cc17c27"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Intro",
+  "text": "The chamber around you moves and breathes as if it is alive. The stone turns into a forest, planes, a village, and then back into stone. Whatever this dungeon is must be magical. Before you lie two paths.",
+  "choice1": {
+    "_id": {
+      "$oid": "60cd9c3f0b374c164cc17c28"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cd9c3f0b374c164cc17c2a"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cd9c880b374c164cc17c2b"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Outro",
+  "text": "This chamber is solid white and seemingly endless nothingness. The Crooked-faced man before you crackles, \"Tell me, who are thee?\"",
+  "choice1": {
+    "_id": {
+      "$oid": "60cd9c880b374c164cc17c2c"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60cd9c880b374c164cc17c2e"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d501f07e4e022a4c22b88b"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Intro",
+  "text": "Lisa",
+  "choice1": {
+    "_id": {
+      "$oid": "60d501f07e4e022a4c22b88c"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d501f07e4e022a4c22b88e"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d501fc7e4e022a4c22b88f"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Outro",
+  "text": "Lisa",
+  "choice1": {
+    "_id": {
+      "$oid": "60d501fc7e4e022a4c22b890"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d501fc7e4e022a4c22b892"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d502047e4e022a4c22b893"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "Lisa",
+  "choice1": {
+    "_id": {
+      "$oid": "60d502047e4e022a4c22b894"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d502047e4e022a4c22b896"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d51833a094402844c883b8"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Intro",
+  "text": "Test",
+  "choice1": {
+    "_id": {
+      "$oid": "60d51833a094402844c883b9"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d51833a094402844c883bb"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5183ba094402844c883bc"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Outro",
+  "text": "Test",
+  "choice1": {
+    "_id": {
+      "$oid": "60d5183ba094402844c883bd"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d5183ba094402844c883bf"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d51844a094402844c883c0"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "Test",
+  "choice1": {
+    "_id": {
+      "$oid": "60d51844a094402844c883c1"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d51844a094402844c883c3"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d52e2cea0f6a4040aaf444"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Intro",
+  "text": "Jo",
+  "choice1": {
+    "_id": {
+      "$oid": "60d52e2cea0f6a4040aaf445"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d52e2cea0f6a4040aaf447"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d52e36ea0f6a4040aaf448"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Outro",
+  "text": "Jo",
+  "choice1": {
+    "_id": {
+      "$oid": "60d52e36ea0f6a4040aaf449"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d52e36ea0f6a4040aaf44b"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d52e3fea0f6a4040aaf44c"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "Jo",
+  "choice1": {
+    "_id": {
+      "$oid": "60d52e3fea0f6a4040aaf44d"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d52e3fea0f6a4040aaf44f"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d53301d0ad601668c9d6c9"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "Lisa",
+  "choice1": {
+    "_id": {
+      "$oid": "60d53301d0ad601668c9d6ca"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d53301d0ad601668c9d6cc"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d682007a6bc41134e013e4"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Intro",
+  "text": "Lisa",
+  "choice1": {
+    "_id": {
+      "$oid": "60d682007a6bc41134e013e5"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d682007a6bc41134e013e7"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d682147a6bc41134e013e8"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Outro",
+  "text": "Lisa",
+  "choice1": {
+    "_id": {
+      "$oid": "60d682147a6bc41134e013e9"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d682147a6bc41134e013eb"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d682257a6bc41134e013ec"
+  },
+  "themes": [
+    "generic"
+  ],
+  "cardType": "Encounter",
+  "text": "Lisa",
+  "choice1": {
+    "_id": {
+      "$oid": "60d682257a6bc41134e013ed"
+    }
+  },
+  "optionals": {
+    "statuses": [],
+    "items": [],
+    "plothooks": [],
+    "_id": {
+      "$oid": "60d682257a6bc41134e013ef"
+    }
+  },
+  "__v": 0
+}]
